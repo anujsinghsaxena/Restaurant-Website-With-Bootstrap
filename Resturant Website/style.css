@@ -1,0 +1,9 @@
+body, html {height: 100%}
+body,h1,h2,h3,h4,h5,h6 {font-family: "ui-serif"}
+.menu {display: none}
+.bgimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://im.rediff.com/getahead/2019/aug/01food01.jpg?w=670&h=900");
+  min-height: 90%;
+}
